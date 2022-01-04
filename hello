@@ -1,4 +1,4 @@
 #!/bin/bash
 
-name="Leila"
+name="Leia"
 echo "Hi ${name}"

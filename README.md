@@ -1,1 +1,1 @@
-This is a greeter program project. It greets the user "Leila".
+This is a greeter program project. It greets the user "Leia".
